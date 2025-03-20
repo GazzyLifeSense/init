@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\bin\Debug\net8.0\06_SnakeGame.exe
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\bin\Debug\net8.0\06_SnakeGame.deps.json
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\bin\Debug\net8.0\06_SnakeGame.runtimeconfig.json
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\bin\Debug\net8.0\06_SnakeGame.dll
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\bin\Debug\net8.0\06_SnakeGame.pdb
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.sourcelink.json
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.dll
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\refint\06_SnakeGame.dll
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.pdb
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\06_SnakeGame.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\git-repo-local\CSharpLearning\06_SnakeGame\obj\Debug\net8.0\ref\06_SnakeGame.dll
